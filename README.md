@@ -66,3 +66,8 @@ distinguish between different training setups.
 
 More information is detailed in **AE appendix** of our publised paper "FastGL: A GPU-Efficient Framework for Accelerating Sampling-Based GNN Training at Large Scale" at ASPLOS'2024.
 
+
+**Dataset Download**
+```
+https://drive.google.com/file/d/1Dhc1hEXcT6vgw23JtzuML28fx0wk-DCY/view
+```
